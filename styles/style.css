@@ -24,7 +24,7 @@
 }
 
 .div--margin-up-250 {
-	margin-top: 200px;
+	margin-top: 145px;
 }
 
 .img--center-in-div {
@@ -53,4 +53,52 @@
 	border: 1px solid #cccccc;
 	color: #404040;
 	background-color: #f2f2f2;
+}
+
+.ul--make-it-navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.li-a--make-nav-button {
+	display: block;
+	padding: 12px;
+	background-color: transparent;
+}
+
+.li--make-it-float-right {
+	float: right;
+}
+
+.li--make-it-float-left {
+	float: left;
+}
+
+.html--background-gray {
+	background-color: #f2f2f2;
+}
+
+.ul--nav-to-bottom {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	padding: 4.5px;
+}
+
+a {
+	text-decoration: none;
+	color: #6E6E73;
+	font-size: 12px;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.html--padd-bottom {
+	padding-bottom: 20px;
 }
