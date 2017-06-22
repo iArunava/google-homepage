@@ -4,7 +4,7 @@ This project is an implementation of the Official Google Home Page. Though, it c
 But, this was not the case for this project. The project was made in an effort to learn and get familiar with website development, mainly
 the idea where, given a design (say, by a web designer) to convert it to a working website.
 
-# Project By
+# Project From
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
 
