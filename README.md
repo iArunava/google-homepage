@@ -6,7 +6,7 @@ the idea where, given a design (say, by a web designer) to convert it to a worki
 
 # Project From
 
-From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
+The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
 
 # How true was the developer of this project
 
